@@ -39,7 +39,30 @@ Schools and teachers can continue to engage with their students through virtual 
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+AKYAS sanitation has developed a backend technology for container-based sanitation (CBS) solution: a breathable bag made 100% from compostable material, the bag acts as a membrane sheet, it remove water content from fecal excreta and neutralizes pathogens onsite through a proprietary powder-mix. This technology shows a revolutionary approach for CBS service providers, and a new approach for the treatment of human waste onsite.
+
+AKYAS bag will have a printed QR code, upon collection the bag will be weighed and sent into the greenhouse, in order to accelerate the removal of water content in the fecal waste (75-80% of poop is water). The end product is a soil amendment. For quality purposes, random samples will be collected from bag and sent to lab to verify the nutrients content and ensure that the new byproduct is free of pathogens.
+
+The aim of the developing AKYAS software application is to consolidated web and mobile enterprise resource planning platform that will be used by CBS operation team.
+The software will have the capacity to monitor and manage the collection of container from toilets at scale. Digitalizing this aspect of operations can offer significant benefits, as managing this system using manual data collection is expensive, prone to errors, and overall doesn’t give the level of visibility needed across the organization for the logistics. 
+
+The software will record data such as:
+
+- Toilet booth being served: Date and time through a booth QR
+
+-  Digital Money transaction from the client
+
+-  Collect the bag QR#, Weight correlate it with toilet booth.
+
+-  log the date when the container is being entered to the greenhouse
+
+- after leaving the greenhouse, measure the weight
+
+- Collect random sample and send it to the lab
+
+- if product is sold
+
+
 
 ## Demo video
 
