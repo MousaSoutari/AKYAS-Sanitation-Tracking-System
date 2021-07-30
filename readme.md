@@ -74,12 +74,13 @@ NA
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![architecture](https://github.com/MousaSoutari/AKYAS-container-base-track-and-trace-and-verification-system/blob/main/architecture.png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. The user log the Bags movement in/out from WC.
+2. Calling the AOI business layer.
+3. Store data on Database and start data analysis.
+4. Prepare the required reports and information.
+5. User naviagte and check the reports
 
 ## Long description
 
