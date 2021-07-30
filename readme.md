@@ -10,7 +10,7 @@ What we could offer in addition is a urine-diverting toilet pan that enhances th
 
 ## Contents
 
-- [Akyas Sanitation Tracking System](##Akyas-Sanitation-Tracking-System)
+- [Akyas Sanitation Tracking System](#akyas-sanitation-tracking-system)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
