@@ -24,10 +24,8 @@ What we could offer in addition is a urine-diverting toilet pan that enhances th
   - [Live demo](#live-demo)
   - [Built with](#built-with)
   - [Contributing](#contributing)
-  - [Versioning](#versioning)
   - [Authors](#authors)
   - [License](#license)
-  - [Acknowledgments](#acknowledgments)
 
 ## Short description
 
@@ -84,7 +82,7 @@ In this section you add the instructions to run your project on your local machi
 
 ## Live demo
 
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
+NA
 
 ## Built with
 
@@ -99,22 +97,13 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
 ## Authors
 
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
+<a href="https://github.com/MousaSoutari/AKYAS-container-base-track-and-trace-and-verification-system/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=MousaSoutari/AKYAS-container-base-track-and-trace-and-verification-system" />
 </a>
-
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
 
 ## License
 
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
