@@ -16,6 +16,7 @@ What we could offer in addition is a urine-diverting toilet pan that enhances th
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
     - [The idea](#the-idea)
+    - [Flow](#flow)
   - [Demo video](#demo-video)
   - [The architecture](#the-architecture)
   - [Long description](#long-description)
@@ -63,6 +64,9 @@ The software will record data such as:
 - if product is sold
 
 
+## Flow
+
+![Flow](https://github.com/MousaSoutari/AKYAS-container-base-track-and-trace-and-verification-system/blob/main/Flow.png)
 
 ## Demo video
 
