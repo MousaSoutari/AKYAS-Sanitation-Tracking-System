@@ -77,7 +77,7 @@ NA
 ![architecture](https://github.com/MousaSoutari/AKYAS-container-base-track-and-trace-and-verification-system/blob/main/architecture.png)
 
 1. The user log the Bags movement in/out from WC.
-2. Calling the AOI business layer.
+2. Calling business layer API
 3. Store data on Database and start data analysis.
 4. Prepare the required reports and information.
 5. User naviagte and check the reports
