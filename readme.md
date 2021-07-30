@@ -6,7 +6,7 @@ AKYAS [أكياس] is an Arabic word for bags.
 One of our flagship innovations is a portable wastewater treatment plant in a bag!
 What we could offer in addition is a urine-diverting toilet pan that enhances the performance of the bag.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=xF3K4bmht9o)
+[![Watch the video](https://github.com/MousaSoutari/AKYAS-container-base-track-and-trace-and-verification-system/blob/main/Youtube.PNG)](https://www.youtube.com/watch?v=xF3K4bmht9o)
 
 ## Contents
 
